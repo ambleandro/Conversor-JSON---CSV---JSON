@@ -31,7 +31,7 @@ textarea, pre {
 pre {
   height: auto;
   margin: 1.5rem auto;
-  text-align: center;
+  text-align: left;
 }
 
 button {
